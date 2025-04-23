@@ -18,11 +18,10 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 
 ##########
 # SITE SETTINGS
-#
-title: 1990s Hip-Hop
-tagline: Where the Golden Era Lives On.
-description: "A digital collection celebrating 1990s hip-hop through album art, mixtapes, lyrics, and archival culture from coast to coast."
-author: Rodney Thompson
+title:1990s Hip-Hop
+tagline:Where the Golden Era Lives On.
+description:"A digital collection celebrating 1990s hip-hop through album art, mixtapes, lyrics, and archival culture from coast to coast."
+author:Rodney Thompson
 
 ##########
 # COLLECTION SETTINGS
